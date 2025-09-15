@@ -104,7 +104,6 @@ The **`data_engine`** table is:
 
 ## 📜 Author  
 👤 **Tolulope Emuleomo (Data Professor)**  
-- [LinkedIn](https://www.linkedin.com/in/tolulope-emuleomo-77a231270/)  
-- [GitHub](https://github.com/)  
+- [LinkedIn](https://www.linkedin.com/in/tolulope-emuleomo-77a231270/)   
 
 ---
